@@ -1,0 +1,2 @@
+C:\Users\MARCELO\Documents\ArquivosCloud\RaspberryPi\mono\Raspi_io\Raspi_io\bin\Debug\Raspi_io.exe.config
+C:\Users\MARCELO\Documents\ArquivosCloud\RaspberryPi\mono\Raspi_io\Raspi_io\obj\x86\Debug\Raspi_io.exe

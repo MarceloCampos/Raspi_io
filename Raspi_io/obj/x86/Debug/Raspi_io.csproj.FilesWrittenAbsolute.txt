@@ -1,0 +1,5 @@
+/home/pi/mono_projects/Raspi_io/Raspi_io/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pi/mono_projects/Raspi_io/Raspi_io/bin/Debug/Raspi_io.exe.mdb
+/home/pi/mono_projects/Raspi_io/Raspi_io/bin/Debug/Raspi_io.exe
+/home/pi/mono_projects/Raspi_io/Raspi_io/obj/x86/Debug/Raspi_io.exe
+/home/pi/mono_projects/Raspi_io/Raspi_io/obj/x86/Debug/Raspi_io.exe.mdb
